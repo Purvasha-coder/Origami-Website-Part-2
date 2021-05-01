@@ -1,0 +1,25 @@
+
+h1{
+    color:rgb(226, 43, 128);
+
+}
+*{
+    border:solid
+
+}
+
+    .header{
+       background-color:rgb(159, 15, 226);
+       display:flex;
+       justify-content: space-between ;
+   }
+   .grid{
+       display:flex;
+     flex-wrap:wrap;
+        justify-content:center ;
+   }body{
+    background-image:url("origami.jpeg");
+    background-repeat: no-repeat;
+    background-size:100%;
+
+}
